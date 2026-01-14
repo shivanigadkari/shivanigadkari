@@ -26,14 +26,6 @@ Tools: Git, GitHub, Postman
 
 ---
 
-### 📌 Projects (EDIT HERE)
-
-- Capstone Web Projects  
-  Multiple projects built as part of Udemy Web Development course  
-  🔗 GitHub: https://github.com/YOUR_USERNAME  
-
----
-
 ### 📚 Learning & Growth
 - Completed Udemy Full Stack Web Development Course
 - Built multiple capstone projects
